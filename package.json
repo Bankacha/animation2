@@ -1,0 +1,15 @@
+{
+  "name": "test-gamanza",
+  "version": "1.0.0",
+  "description": "test_gamanza",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bane",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.55.2",
+    "phaser3-project-template": "^1.0.9"
+  }
+}
